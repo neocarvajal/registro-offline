@@ -30,7 +30,7 @@
 ![@neocarvajal](https://raw.githubusercontent.com/neocarvajal/registro-offline/master/repo_images/editar_participante.jpg 
 "editar")
 
-4 - buscar
+4 - búscar
 =
 
 ![@neocarvajal](https://raw.githubusercontent.com/neocarvajal/registro-offline/master/repo_images/buscar_participante.jpg 
