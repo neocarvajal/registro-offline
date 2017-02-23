@@ -27,7 +27,7 @@
 3 - editar
 =
 
-![@neocarvajal](https://raw.githubusercontent.com/neocarvajal/registro-offline/master/repo_images/editar_participante 
+![@neocarvajal](https://raw.githubusercontent.com/neocarvajal/registro-offline/master/repo_images/editar_participante.jpg 
 "editar")
 
 4 - buscar
