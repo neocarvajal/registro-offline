@@ -10,3 +10,34 @@
 -- Versión del servidor: 5.5.32
 -- Versión de PHP: 5.4.16
 
+# Vistas
+
+1
+=
+
+![@neocarvajal](https://raw.githubusercontent.com/neocarvajal/registro-offline/master/repo_images/start.jpg 
+"index")
+
+2
+=
+
+![@neocarvajal](https://raw.githubusercontent.com/neocarvajal/registro-offline/master/repo_images/nuevo_participante.jpg 
+"nuevo")
+
+3
+=
+
+![@neocarvajal](https://raw.githubusercontent.com/neocarvajal/registro-offline/master/repo_images/editar_participante 
+"editar")
+
+4
+=
+
+![@neocarvajal](https://raw.githubusercontent.com/neocarvajal/registro-offline/master/repo_images/buscar_participante.jpg 
+"buscar")
+
+5
+=
+
+![@neocarvajal](https://raw.githubusercontent.com/neocarvajal/registro-offline/master/repo_images/eliminar_participante.jpg 
+"eliminar")
