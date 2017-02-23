@@ -1,0 +1,35 @@
+/* Imports */
+@import url(http://fonts.googleapis.com/css?family=Oswald:300);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+.has-error small{color:red;font-weight:normal;margin-left:5px;}
+#jumbotron-index{margin-top:50px;background:#666;color:#eee;}
+
+body {
+  padding-top: 50px;
+}
+
+#logo{
+	width:100px;
+	height:100px;
+    border-radius:50%;
+       -moz-border-radius:50%;
+       -o-border-radius:50%;
+       -webkit-border-radius:50%;
+}
+
+#busqueda{
+	position:relative;
+	top:7px;
+	margin:0 auto;
+}
+
+#banner{
+	padding-top:1em;
+    margin: 0em auto;
+}
+
+#resultadoBusqueda{
+	margin:0 auto;	
+	padding:0.5em;
+}
