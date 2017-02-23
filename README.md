@@ -1,6 +1,6 @@
 # registro-offline
 
- Descargar BD: goo.gl/yvf4aB 
+ Descargar BD: https://goo.gl/yvf4aB 
  -------------
 
 -- phpMyAdmin SQL Dump
