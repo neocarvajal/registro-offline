@@ -12,31 +12,31 @@
 
 # Vistas
 
-1
+1 - index
 =
 
 ![@neocarvajal](https://raw.githubusercontent.com/neocarvajal/registro-offline/master/repo_images/start.jpg 
 "index")
 
-2
+2 - agregar 
 =
 
 ![@neocarvajal](https://raw.githubusercontent.com/neocarvajal/registro-offline/master/repo_images/nuevo_participante.jpg 
 "nuevo")
 
-3
+3 - editar
 =
 
 ![@neocarvajal](https://raw.githubusercontent.com/neocarvajal/registro-offline/master/repo_images/editar_participante 
 "editar")
 
-4
+4 - buscar
 =
 
 ![@neocarvajal](https://raw.githubusercontent.com/neocarvajal/registro-offline/master/repo_images/buscar_participante.jpg 
 "buscar")
 
-5
+5 - eliminar
 =
 
 ![@neocarvajal](https://raw.githubusercontent.com/neocarvajal/registro-offline/master/repo_images/eliminar_participante.jpg 
